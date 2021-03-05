@@ -1,0 +1,18 @@
+TODOs
+
+    -   Routes 
+    - Views 
+        - Home/Welcome
+        - Dashboard
+            -> Stripe/ Pricing - auth->user() 
+                - Bug, cant enter CC info
+            - Entities lists
+            -  Associated Directiors 
+            - Tax/EIN info
+            - Bank info
+            - Deadline reminders/alerts
+            - Map coporate structures
+        - About
+        - Contact 
+
+    
